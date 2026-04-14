@@ -1,0 +1,120 @@
+
+AUTOMOTIVE LOAN AGREEMENT - TERMS AND CONDITIONS
+
+SECTION 1: LOAN FUNDAMENTALS
+
+1.1 Principal Amount
+The Principal Amount is the total financed amount after deducting any down payment 
+and trade-in credit from the vehicle purchase price. The borrower agrees to repay 
+the principal amount plus all accrued interest over the agreed loan term.
+
+1.2 Annual Percentage Rate (APR)
+The APR represents the true annual cost of the loan including all fees and interest. 
+APR is determined at the time of application based on creditworthiness, loan term, 
+vehicle age, and prevailing market rates. Rates are subject to change without notice 
+for new applications. Approved rates are locked at the time of contract signing.
+
+1.3 Loan Term
+Loan terms are available in 24, 36, 48, 60, 72, and 84-month increments. 
+Longer terms result in lower monthly payments but higher total interest paid. 
+We recommend borrowers select the shortest term with an affordable monthly payment. 
+Terms exceeding 60 months are not available for vehicles older than 3 model years.
+
+1.4 Monthly Payment Calculation
+Monthly payments are calculated using the standard amortization formula:
+M = P[r(1+r)^n]/[(1+r)^n-1]
+Where M = monthly payment, P = principal, r = monthly interest rate (APR/12), 
+n = number of payments (loan term in months).
+
+SECTION 2: CREDIT REQUIREMENTS
+
+2.1 Minimum Credit Score
+A minimum FICO score of 620 is required for loan approval. Scores below 620 may 
+qualify with a qualified co-borrower. Scores above 720 qualify for our best rates.
+
+2.2 Debt-to-Income Ratio (DTI)
+Maximum allowable DTI is 50% including the proposed auto payment. DTI is calculated 
+as total monthly debt obligations divided by gross monthly income. Borrowers with 
+DTI between 45-50% may require larger down payments.
+
+2.3 Employment Verification
+Minimum 6 months at current employer required. Self-employed borrowers must provide 
+2 years of tax returns and 3 months of bank statements. Commission-based income is 
+averaged over 24 months.
+
+2.4 Down Payment Requirements
+Minimum down payment of 10% required for credit scores 650-699. 
+No minimum down payment for credit scores 700+ on new vehicles. 
+Used vehicles require minimum 10% down regardless of credit score.
+
+SECTION 3: VEHICLE ELIGIBILITY
+
+3.1 New Vehicles
+All new vehicles from franchised dealers qualify. Mileage must be under 500 miles. 
+MSRP cap of $150,000 applies. Exotic and limited-production vehicles may require 
+additional appraisal.
+
+3.2 Used Vehicles
+Used vehicles must be model year 2015 or newer. Mileage cannot exceed 100,000 miles. 
+Salvage, rebuilt, or flood-title vehicles do not qualify. Vehicles must have a clean 
+Carfax or AutoCheck report.
+
+3.3 Loan-to-Value (LTV) Ratio
+LTV is calculated as loan amount divided by vehicle value (MSRP for new, 
+NADA/KBB retail for used). Maximum LTV varies by credit score and vehicle type 
+as published in our rate sheet. LTV over 100% (negative equity roll-in) requires 
+credit score of 700 or higher.
+
+SECTION 4: INSURANCE REQUIREMENTS
+
+4.1 Comprehensive and Collision Coverage
+Borrower must maintain comprehensive and collision insurance with deductibles 
+not exceeding $1,000 for the life of the loan. Lender must be listed as lienholder 
+on the insurance policy.
+
+4.2 Proof of Insurance
+Valid insurance card or declarations page must be provided at signing. 
+Lapse in coverage allows lender to place force-placed insurance at borrower's expense.
+
+4.3 GAP Insurance
+GAP (Guaranteed Asset Protection) insurance is optional but strongly recommended 
+for loans with LTV over 90%. GAP covers the difference between the insurance payout 
+and remaining loan balance in the event of total loss or theft.
+
+SECTION 5: PAYMENT TERMS
+
+5.1 Due Date
+First payment is due 30 days from loan origination date. Subsequent payments are 
+due on the same day of each month. Borrower may select a due date between the 
+1st and 28th of the month at time of origination.
+
+5.2 Grace Period
+A 15-day grace period applies to all payments. Late fees are assessed on the 
+16th day after the due date.
+
+5.3 Prepayment
+Loans may be prepaid in full at any time. A prepayment penalty of 2% of the 
+remaining balance applies if the loan is paid off within the first 12 months. 
+No prepayment penalty applies after month 12.
+
+5.4 Payment Methods
+Payments accepted via ACH auto-pay (0.25% rate discount), online portal, 
+mail (check or money order), or phone (processing fee applies). 
+Cash payments accepted at branch locations only.
+
+SECTION 6: DEFAULT AND REPOSSESSION
+
+6.1 Definition of Default
+Loan is considered in default if payment is 30 or more days past due, 
+borrower allows insurance to lapse, borrower files for bankruptcy, 
+or vehicle is used for commercial purposes without lender consent.
+
+6.2 Repossession Process
+Lender reserves the right to repossess the vehicle without prior notice upon default. 
+Borrower will be notified of repossession and given 10 days to cure the default 
+before vehicle is sold at auction.
+
+6.3 Deficiency Balance
+If auction proceeds do not cover the remaining loan balance, borrower remains 
+liable for the deficiency balance. Lender may pursue legal action to collect 
+deficiency balances.
