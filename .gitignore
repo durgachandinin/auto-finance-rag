@@ -4,3 +4,7 @@ faiss_index/
 __pycache__/
 *.pyc
 .DS_Store
+
+# React / Node
+frontend/node_modules/
+frontend/dist/
